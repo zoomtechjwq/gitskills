@@ -1,2 +1,6 @@
 1
+<<<<<<< HEAD
 create a new branch in master
+=======
+creat a new branch
+>>>>>>> feature1
