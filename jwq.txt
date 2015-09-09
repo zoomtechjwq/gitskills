@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 master modify
 
 1
@@ -6,3 +7,10 @@ create a new branch in master
 =======
 creat a new branch
 >>>>>>> feature1
+=======
+master add
+dev add
+master add
+
+
+>>>>>>> dev
